@@ -9,7 +9,7 @@
 I'm
 Software Developer 
 
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (Java,NodeJs), design (working closely with designers), front-end development (React, Angular, ReactJs, HTML5, CSS3),Database (SQL, MySQl, MongoDB)
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (Java,NodeJs), design (working closely with designers), front-end development (React, Angular, ReactJs, HTML5, CSS3, bootstrap 5),Database (SQL, MySQl, MongoDB)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/NafisaDeveloper/count.svg)
